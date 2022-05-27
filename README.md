@@ -1,2 +1,4 @@
 # nicoambrosis.github.io
-Pagina web personal
+Personal Web page.
+
+Sorry, this project hasn't even started...
